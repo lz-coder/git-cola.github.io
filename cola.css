@@ -133,6 +133,14 @@ a.button:hover {
         margin-bottom: 0.5em;
         text-align: center;
     }
+    .downloads-box-container {
+        float: none !important;
+        margin: 0 !important;
+    }
+    .downloads-box {
+        margin: 0 auto !important;
+    }
+    .cmd {font-size: 1.2em !important;}
 }
 
 @media screen and (max-width: 767px) and (orientation: landscape) {
